@@ -1,83 +1,68 @@
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║  N E T R U N N E R   I N T E R F A C E          [ ACCESS GRANTED ] ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+![BLZTK // NO CORP. NO MASTER.](./assets/netrunner-header.svg)
 
-# `BLZTK_`
+![Operator status // access granted](./assets/operator-status.svg)
 
-### NO CORP. NO MASTER.
-
-**INDEPENDENT OPERATOR // BRAZIL**  
-`XR` / `INTERACTIVE SYSTEMS` / `CREATIVE CODE` / `OPEN TECHNOLOGY`
-
-`[ SIGNAL ACTIVE ]` · `[ CORPORATE CONTROL: DISABLED ]`
+**`[ UNREGISTERED SIGNAL ]`** &nbsp; **`[ INDEPENDENT OPERATOR ]`** &nbsp; **`[ SYSTEM ONLINE ]`**
 
 </div>
 
 ---
 
-### `01 // IDENTITY BREACH`
+## 🟡 `01 // IDENTITY BREACH`
 
 ```bash
-$ whoami
-blztk
+root@nightcity:~# whoami
+> BLZTK // independent creative developer
 
-$ cat /etc/mission
-Build experiences beyond the screen.
-Connect code, physical space, and human interaction.
-Question defaults. Own the tools. Keep learning.
+root@nightcity:~# cat /etc/mission
+> Build experiences beyond the screen.
+> Merge code, physical space, and human interaction.
+> Break defaults. Stay curious. Own the tools.
 ```
 
-Desenvolvedor criativo independente. Exploro a interseção entre **software, arte, realidade estendida e sistemas interativos**.
+Desenvolvo na interseção entre **software, arte e tecnologia imersiva**. Crio experiências com **Unity, Unreal Engine, VR/AR, visão computacional e creative coding** — especialmente para cultura, museus e interfaces experimentais.
 
-Construo experimentos com **Unity, Unreal Engine, visão computacional e tecnologias web**, com interesse em museus, cultura, acessibilidade e novas formas de interação.
+## ⚡ `02 // CYBERWARE LOADOUT`
 
-### `02 // ACTIVE MODULES`
+| SYSTEM | INSTALLED MODULES |
+|:--|:--|
+| 🟡 **IMMERSION** | Unity · Unreal Engine · Meta Quest · VR / AR / XR |
+| 🔴 **PERCEPTION** | OpenCV · YOLO · Kinect · Computer Vision |
+| 🟡 **CODE** | C# · C / C++ · Python · JavaScript · Rust |
+| 🔴 **INTERFACE** | HTML · CSS · UI/UX · Interactive Web |
+| 🟡 **EXPERIMENT** | TouchDesigner · Blender · Creative Coding |
+| 🔴 **OPERATING SYSTEM** | Linux · Git · GitHub · Open Source |
 
-| NODE | CAPABILITIES |
-| :--- | :--- |
-| `IMMERSION` | Unity · Unreal Engine · VR / AR · Meta Quest |
-| `PERCEPTION` | OpenCV · YOLO · Computer Vision |
-| `CODE` | C# · C / C++ · Python · JavaScript |
-| `INTERFACE` | HTML · CSS · UI/UX · Interactive Web |
-| `EXPERIMENT` | TouchDesigner · Blender · Creative Coding |
-| `SYSTEM` | Linux · Git · GitHub · Open Source |
-
-### `03 // CURRENT OPERATIONS`
+## 🔴 `03 // ACTIVE OPERATIONS`
 
 ```text
-[01] IMMERSIVE EXPERIENCES ....... VR / AR / XR
-[02] CULTURAL INTERFACES ........ MUSEUMS / ART / ACCESSIBILITY
-[03] INTERACTIVE SYSTEMS ........ SENSORS / COMPUTER VISION
-[04] INDEPENDENT TOOLS .......... SOFTWARE / CREATIVE WORKFLOWS
+╔════════════════════════════════════════════════════╗
+║  [01] XR / IMMERSIVE WORLDS          [ ACTIVE ]     ║
+║  [02] MUSEUMS / CULTURAL INTERFACES  [ ACTIVE ]     ║
+║  [03] COMPUTER VISION / SENSORS      [ TESTING ]    ║
+║  [04] INDEPENDENT CREATIVE TOOLS     [ BUILDING ]   ║
+╚════════════════════════════════════════════════════╝
 ```
 
-### `04 // OPERATING PRINCIPLES`
+## 🟡 `04 // SOURCE CODE TRANSMISSIONS`
 
-> **NO CORP. NO MASTER.**
->
-> Tecnologia como ferramenta de criação, não como coleira.  
-> Curiosidade acima de conformidade. Experimentação acima de fórmulas prontas.
+[**`>>> EXPLORE THE REPOSITORIES`**](https://github.com/BLZTK?tab=repositories)
 
-### `05 // OPEN CHANNEL`
+No fake stats. No manufactured achievements. Just code, experiments and work in progress.
 
-- **GitHub:** [github.com/BLZTK](https://github.com/BLZTK)
-- **Repositories:** [explore the source](https://github.com/BLZTK?tab=repositories)
+## 🔴 `05 // THE PROTOCOL`
+
+> **NO CORP. NO MASTER.**  
+> Technology should expand what people can create, explore and experience — not limit it.
 
 ---
 
 <div align="center">
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│  END OF TRANSMISSION // BLZTK_                             │
-│  NO CORP. NO MASTER.                                      │
-└────────────────────────────────────────────────────────────┘
-```
+**`[ END OF TRANSMISSION ]`** · **`BLZTK_`** · **`BRAZIL`**
 
-<sub>Formerly drifer97 · Independent creative technology · Brazil</sub>
+`// KEEP THE SIGNAL ALIVE //`
 
 </div>
