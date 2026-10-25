@@ -1,64 +1,83 @@
 <div align="center">
 
-# drifer97
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║  N E T R U N N E R   I N T E R F A C E          [ ACCESS GRANTED ] ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
-### Desenvolvedor Criativo · XR / VR · Experiências Interativas
+# `BLZTK_`
 
-**Código, interação e tecnologia imersiva.**
+### NO CORP. NO MASTER.
 
-Desenvolvo experimentos e aplicações na interseção entre  
-**software · realidade estendida · visão computacional · mídia interativa**.
+**INDEPENDENT OPERATOR // BRAZIL**  
+`XR` / `INTERACTIVE SYSTEMS` / `CREATIVE CODE` / `OPEN TECHNOLOGY`
+
+`[ SIGNAL ACTIVE ]` · `[ CORPORATE CONTROL: DISABLED ]`
 
 </div>
 
 ---
 
-### ◉ Sobre
+### `01 // IDENTITY BREACH`
 
-Sou um desenvolvedor interessado em experiências que vão além das interfaces tradicionais.
+```bash
+$ whoami
+blztk
 
-Meu trabalho explora **XR/VR, sistemas interativos, visão computacional e desenvolvimento criativo**, combinando tecnologia com experimentação, acessibilidade e novas formas de interagir com conteúdos digitais.
+$ cat /etc/mission
+Build experiences beyond the screen.
+Connect code, physical space, and human interaction.
+Question defaults. Own the tools. Keep learning.
+```
 
-Atualmente estudo e desenvolvo projetos utilizando **C#, Unity, Unreal Engine e tecnologias web**.
+Desenvolvedor criativo independente. Exploro a interseção entre **software, arte, realidade estendida e sistemas interativos**.
 
----
+Construo experimentos com **Unity, Unreal Engine, visão computacional e tecnologias web**, com interesse em museus, cultura, acessibilidade e novas formas de interação.
 
-### ◈ O que estou explorando
+### `02 // ACTIVE MODULES`
 
-`XR & VR` · `Experiências Interativas` · `Visão Computacional` · `Creative Coding` · `Acessibilidade` · `IA`
+| NODE | CAPABILITIES |
+| :--- | :--- |
+| `IMMERSION` | Unity · Unreal Engine · VR / AR · Meta Quest |
+| `PERCEPTION` | OpenCV · YOLO · Computer Vision |
+| `CODE` | C# · C / C++ · Python · JavaScript |
+| `INTERFACE` | HTML · CSS · UI/UX · Interactive Web |
+| `EXPERIMENT` | TouchDesigner · Blender · Creative Coding |
+| `SYSTEM` | Linux · Git · GitHub · Open Source |
 
----
+### `03 // CURRENT OPERATIONS`
 
-### ◇ Principais ferramentas
+```text
+[01] IMMERSIVE EXPERIENCES ....... VR / AR / XR
+[02] CULTURAL INTERFACES ........ MUSEUMS / ART / ACCESSIBILITY
+[03] INTERACTIVE SYSTEMS ........ SENSORS / COMPUTER VISION
+[04] INDEPENDENT TOOLS .......... SOFTWARE / CREATIVE WORKFLOWS
+```
 
-**Linguagens**  
-C# · JavaScript · Python · C / C++
+### `04 // OPERATING PRINCIPLES`
 
-**Tempo real & XR**  
-Unity · Unreal Engine · Meta Quest
+> **NO CORP. NO MASTER.**
+>
+> Tecnologia como ferramenta de criação, não como coleira.  
+> Curiosidade acima de conformidade. Experimentação acima de fórmulas prontas.
 
-**Web**  
-HTML · CSS · JavaScript
+### `05 // OPEN CHANNEL`
 
-**Criatividade / Visão Computacional**  
-OpenCV · YOLO · TouchDesigner · Blender
-
-**Ferramentas**  
-Git · GitHub · Visual Studio · VS Code
-
----
-
-### ⟡ Construindo em direção a
-
-> A tecnologia não deve apenas funcionar.  
-> Ela deve criar novas formas de **ver, interagir e experienciar**.
-
-Tenho interesse especial em projetos envolvendo **computação imersiva, museus & cultura, acessibilidade e interfaces experimentais**.
+- **GitHub:** [github.com/BLZTK](https://github.com/BLZTK)
+- **Repositories:** [explore the source](https://github.com/BLZTK?tab=repositories)
 
 ---
 
 <div align="center">
 
-**drifer97 // tecnologia criativa & desenvolvimento imersivo**
+```text
+┌────────────────────────────────────────────────────────────┐
+│  END OF TRANSMISSION // BLZTK_                             │
+│  NO CORP. NO MASTER.                                      │
+└────────────────────────────────────────────────────────────┘
+```
+
+<sub>Formerly drifer97 · Independent creative technology · Brazil</sub>
 
 </div>
